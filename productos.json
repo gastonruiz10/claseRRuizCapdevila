@@ -1,0 +1,39 @@
+[
+    {
+      "precio": 8000,
+      "id": 1,
+      "title": "Buzo Child Off",
+      "img": "./img/1.jpg"
+    },
+    {
+      "precio": 4500,
+      "id": 2,
+      "title": "Remera Bitch",
+      "img": "./img/2.jpg"
+    },
+    {
+      "precio": 8000,
+      "id": 3,
+      "title": "Buzo Pink",
+      "img": "./img/3.jpg"
+    },
+    {
+      "precio": 4500,
+      "id": 4,
+      "title": "Remera Sinner",
+      "img": "./img/4.jpg"
+    },
+    {
+      "precio": 9000,
+      "id": 5,
+      "title": "Buzo Bowie",
+      "img": "./img/5.jpg"
+    },
+    {
+      "precio": 6000,
+      "id": 6,
+      "title": "Remera Bowie",
+      "img": "./img/6.jpg"
+    }
+  ]
+  
